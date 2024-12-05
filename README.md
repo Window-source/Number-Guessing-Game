@@ -1,2 +1,3 @@
 # Number-Guessing-Game
-A number guessing game
+a game where you guess numbers
+
